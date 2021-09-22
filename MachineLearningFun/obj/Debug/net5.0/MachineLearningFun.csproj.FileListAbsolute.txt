@@ -1,0 +1,16 @@
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\MachineLearningFun.exe
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\MachineLearningFun.deps.json
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\MachineLearningFun.runtimeconfig.json
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\MachineLearningFun.runtimeconfig.dev.json
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\MachineLearningFun.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\ref\MachineLearningFun.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\bin\Debug\net5.0\MachineLearningFun.pdb
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.csproj.AssemblyReference.cache
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.AssemblyInfoInputs.cache
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.AssemblyInfo.cs
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.csproj.CoreCompileInputs.cache
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\ref\MachineLearningFun.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.pdb
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\MachineLearningFun\obj\Debug\net5.0\MachineLearningFun.genruntimeconfig.cache
