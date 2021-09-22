@@ -1,0 +1,16 @@
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\RobotBrains.exe
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\RobotBrains.deps.json
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\RobotBrains.runtimeconfig.json
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\RobotBrains.runtimeconfig.dev.json
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\RobotBrains.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\ref\RobotBrains.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\bin\Debug\net5.0\RobotBrains.pdb
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.csproj.AssemblyReference.cache
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.AssemblyInfoInputs.cache
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.AssemblyInfo.cs
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.csproj.CoreCompileInputs.cache
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\ref\RobotBrains.dll
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.pdb
+C:\Users\winty\OneDrive\MachineLearning\MachineLearningFun\RobotBrains\RobotBrains\obj\Debug\net5.0\RobotBrains.genruntimeconfig.cache
